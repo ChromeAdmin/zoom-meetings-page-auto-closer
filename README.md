@@ -1,5 +1,5 @@
 # zoom-meetings-page-auto-closer
-DEPRECATED: This version of the extension was suspended by Google for violating Zoom trademarks.
+DEPRECATED: This version of the extension was taken down by Google because Zoom Video Communications claimed trademark violations.
 
 The violations have since been fixed and the new extension can be found at [meetings-page-auto-closer-for-zoom](https://github.com/ChromeAdmin/meetings-page-auto-closer-for-zoom)
 
