@@ -1,4 +1,4 @@
-# RENAMED TO: [meetings-page-auto-closer-for-zoom](https://github.com/ChromeAdmin/meetings-page-auto-closer-for-zoom)
+# RENAMED TO: [meetings-page-auto-closer-for-zoom](https://chrome.google.com/webstore/detail/pbgidoglkjhfgjhalbbiiahdlokjcplb)
 ## This version was renamed because the original extension was taken down by Google because Zoom Video Communications claimed trademark violations.
 
 
